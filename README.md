@@ -181,7 +181,7 @@
     <td align="left"><b>메인페이지 디자인 및 전체적인 디자인 총괄<br></b></td>
     <td align="left"><b>카카오맵 api를 이용한 지도 페이지 구현, 게시판 및 댓글 기능 구현<br></b></td>
     <td align="left"><b>회원가입&칼럼&실천해요 게시판 디자인<br>회원가입 중복체크기능<br>마이페이지 회원정보 수정<br>회원 탈퇴<br>PPT제작<br></b></td>
-    <td align="left"><b>유튜브페이, 게시판 및 댓글 기능 구현<br></b></td>
+    <td align="left"><b>유튜브페이지, 게시판 및 댓글 기능 구현<br></b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Arcana12" target='_blank'>github</a></td>
